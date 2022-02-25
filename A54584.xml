@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached July, 5th on the occasion of the late rebellion by John Petter.</title>
+            <author>Petter, John, 1661 or 2-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54584</idno>
+            <idno type="STC">Wing P1889</idno>
+            <idno type="STC">ESTC R33390</idno>
+            <idno type="EEBO-CITATION">13286943</idno>
+            <idno type="OCLC">ocm 13286943</idno>
+            <idno type="VID">98820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached July, 5th on the occasion of the late rebellion by John Petter.</title>
+                  <author>Petter, John, 1661 or 2-1700.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Walsal ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough with loss of text.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Monmouth's Rebellion, 1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:98820:2" rendition="simple:additions"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>Julij 23. 1685.</date>
+               </dateline>
+               <signed>
+                  <hi>H. Maurice,</hi> R<hi rend="sup">mo</hi> in Chriſto Patri D<hi rend="sup">o</hi>. <hi>Guil<hi rend="sup">o</hi>.</hi> Ap<hi rend="sup">o</hi>. <hi>Cant.</hi> à Sacris Dom.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98820:1" rendition="simple:additions"/>
+            <pb facs="tcp:98820:1" rendition="simple:additions"/>
+            <p>A SERMON Preached <hi>July,</hi> 5<hi rend="sup">th</hi>. on the Occaſion OF THE Late Rebellion.</p>
+            <p>By <hi>JOHN PETTER,</hi> M. A.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Walſal,</hi> at the <hi>Heart</hi> and <hi>Bible,</hi> near the <hi>Royal Exchange</hi> in <hi>Cornbil.</hi> 1685.</p>
+            <pb facs="tcp:98820:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98820:3" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:98820:3" rendition="simple:additions"/>
+            <epigraph>
+               <bibl>JOH. XXI. 22.</bibl>
+               <q>—If I will that he tarry till I come, what is that to thee? Follow you me.</q>
+               <q xml:lang="grc">—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>UR Saviour ſaith unto St. <hi>Peter</hi> in the nineteenth verſe of this Chapter, <hi>Follow you me; (i. e.</hi>) to Death: But he being backward and neg<g ref="char:EOLhyphen"/>lectful of that which he was call<g ref="char:EOLhyphen"/>ed to, and too much pragmatically inquiſitive into St. <hi>John</hi>'s buſineſs; ſeeing him, ſaid, <hi>Lord, what ſhall this man do?</hi> verſ. 20. What ſhall he do for thy Name? What ſhall his Fate be? Whe<g ref="char:EOLhyphen"/>ther ſhall he, becauſe he loves thee much, glo<g ref="char:EOLhyphen"/>rifie thee likewiſe by Death, as well as I? Or whether ſhall he be free from the Puniſhment of Martyrdom, and I only follow thee? All which was a great Curioſity in St. <hi>Peter,</hi> how<g ref="char:EOLhyphen"/>ever it came to paſs; whether out of that great love he bore to St. <hi>John</hi> his Colleague, or for that he deſired a Companion in his Sufferings:
+<q xml:lang="lat">
+                  <pb n="2" facs="tcp:98820:4"/>Solamen miſeris, &amp;c.</q>
+            </p>
+            <p>But upon what ſcore ſoever it was, we have Chriſt's Reprehenſion of it ſubjoyned in the words of my Text, <hi>If I will that he tarry till I come, &amp;c.</hi> As if he ſhould have ſaid; Be not you ſo inqui<g ref="char:EOLhyphen"/>ſitive about him, nor ſo backward in your ſelf: Take heed, that while you caſt your Eye upon him, you neglect not that which is enjoyn'd you, <hi>I will that you follow me.</hi>
+            </p>
+            <p>The Words are partly <hi>CORRECTIVE,</hi> and partly <hi>DIRECTIVE.</hi>
+            </p>
+            <list>
+               <item>1. <hi>CORRECTIVE</hi> of St. <hi>Peter</hi>'s Curioſity with a ſevere Check; quickly taking up his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>What ſhall this man do?</hi> with a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>What's that to thee?</hi>
+               </item>
+               <item>2. <hi>DIRECTIVE</hi> of his own future Courſe of Life, ſuddenly putting him upon what was beſt for him to do, with a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Follow you me.</hi>
+               </item>
+            </list>
+            <p>In the former, the Reprehenſory Part, we have,</p>
+            <list>
+               <item>1. Chriſt's <hi>Hypotheſis,</hi> or Suppoſition concern<g ref="char:EOLhyphen"/>ing <hi>John</hi>'s tarrying; <hi>If I will that he tarry till I come.</hi>
+               </item>
+               <item>2. The Reprehenſion it ſelf; wherein our Sa<g ref="char:EOLhyphen"/>viour anſwers <hi>Peter</hi>'s <hi>What</hi> with a <hi>What's that to thee?</hi>
+               </item>
+            </list>
+            <p>
+               <pb n="3" facs="tcp:98820:4" rendition="simple:additions"/>(1.) Chriſt's <hi>Hypotheſis,</hi> or Suppoſition con<g ref="char:EOLhyphen"/>cerning <hi>John</hi>'s tarrying; <hi>If I will that he tarry till I come.</hi>
+            </p>
+            <p>It would be needleſs at preſent to give you the various Readings of theſe words; for Chriſt ſeems chiefly to check St. <hi>Peter</hi>'s Curioſity; and ſo all of them may fall into one ſence: The Reſult of the buſineſs is then in theſe two words, <hi>Tarrying,</hi> and <hi>till I come.</hi>
+            </p>
+            <p>
+               <hi>Tarrying</hi> here by St. <hi>Chryſoſtom</hi> is read accord<g ref="char:EOLhyphen"/>ing to the word, (<hi>i. e.) If I will that he tarry</hi> here, and be not ſent abroad into the World, as the reſt.</p>
+            <p>Others ſay, this <hi>tarrying</hi> is, not dying; but then the difficulty lies in <hi>till I come.</hi>
+            </p>
+            <p>Some underſtand it of the end of the World, but then St. <hi>John</hi> muſt be now alive.</p>
+            <p>Others underſtand Chriſt's Metaphorical Com<g ref="char:EOLhyphen"/>ing, (<hi>viz.</hi>) by his Power and Vertue, as he did by <hi>Titus</hi> and <hi>Veſpatian</hi> to deſtroy <hi>Jeruſalem.</hi>
+            </p>
+            <p>But if we will ſearch the Scriptures, they will clear us in this point; for there we ſhall find a threefold Coming of Chriſt, <hi>ad, in, contra ho<g ref="char:EOLhyphen"/>mines;</hi> the firſt is paſt, the laſt is yet to come, the ſecond is his coming in the Promulgation of his Goſpel; and that St. <hi>John</hi> lived to ſee.</p>
+            <p>In <hi>Mat.</hi> 16. 28. we have the parallel of this
+<pb n="4" facs="tcp:98820:5"/>
+place; <hi>Verily there be ſome ſtanding here, that ſhall not taſte of death until they ſee the Son of Man coming in his Kingdom:</hi> Which <hi>taſtiing of death</hi> correſponds with <hi>tarrying</hi> (in the Text) <hi>the Son of Man's Com<g ref="char:EOLhyphen"/>ing. Till</hi> I <hi>come,</hi> and <hi>the Kingdom of God,</hi> what is it, but the full Manifeſtation of the Goſpel, to the Converſion of the World? which how large<g ref="char:EOLhyphen"/>ly it was ſpread abroad, St. <hi>John</hi> tarryed to ſee, even in the days of <hi>Trajan</hi> the Emperour.</p>
+            <p>From the words of the <hi>Hypotheſis</hi> thus ex<g ref="char:EOLhyphen"/>plain'd, I paſs to the ſecond part, the Correcti<g ref="char:EOLhyphen"/>on, <hi>What's that to thee? Ad te, quid ad te?</hi> ſo the <hi>Syriack</hi> doubles it with an emphatical Check, to denote to us, that this Sin, where-ever it is found, deſerves a Check, and a ſevere one too.</p>
+            <p>You may therefore learn from hence, that if any Priviledge, Benefit or Honour be granted to another man, which is denyed to you, not to think much, or be continually murmuring at it, and ſaying, <hi>Quid autem hic?</hi> For if Chriſt ſpared not St. <hi>Peter,</hi> who had at that time (as many write) undertaken the care of the whole Church; how much more ſeverely ſhall he reprove you with a <hi>What's that to thee? Follow you me,</hi> do you your own duty diligently in that Station wherein God hath placed you; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p>But this is a Vice which may juſtly be taxed
+<pb n="5" facs="tcp:98820:5" rendition="simple:additions"/>
+in theſe our times: And more eſpecially in thoſe who buſie themſelves in publick matters, above their reach; ſuch Buſie-bodies as keep not themſelves within the limits of their own callings and Profeſſions; who are never well but when they are taxing or finding fault with ſomething either in Church or State; who can teach their Princes how to Govern, their Miniſters how to Preach, what Laws are fit for the Kingdom, what Order for the Church: <hi>Ne ſutor ultra cre<g ref="char:EOLhyphen"/>pidam.</hi> Every man muſt keep within the bounds and limits of his own calling: The Lawyer muſt not demurr on <hi>dubia Evangelica,</hi> nor the Artizan and illiterate day Labourer hold himſelf ſuffici<g ref="char:EOLhyphen"/>ent to be a Maſter-builder in Chriſts Church: Men of every Profeſſion muſt not take upon them, to have skill in expounding Scripture. It's well provided by our Laws; that Divines and Eccleſiaſtical Perſons may not take Farms, fol<g ref="char:EOLhyphen"/>low any Mechanick Trades, buy nor ſell for re<g ref="char:EOLhyphen"/>turn in Markets: And ſhall Farmers, Mecha<g ref="char:EOLhyphen"/>nicks, Men of all Profeſſions, and men of no Profeſſions, turn Divines? No. Every one is to act that part which God hath allotted him: The Taylor muſt not leap from the Shop-board to the Pulpit, nor the Cobler from the Stall to the Throne. God hath made Kings to Govern, and
+<pb n="6" facs="tcp:98820:6"/>
+Subjects to Obey: 'Tis not therefore for Sub<g ref="char:EOLhyphen"/>jects to call in Queſtion, or be cenſuring the Actions of their Prince. <hi>Rex ſub nullo niſi ſub Deo;</hi> To be accountable to none but God, is the Royal Prerogative of Princes: <hi>For who ſhall ſay unto the King, What doſt thou?</hi> 'Tis not for every Tradeſman to be medling with State-affairs: 'Tis not for every Mechanick, every pitiful in<g ref="char:EOLhyphen"/>feriour fellow, that is placed at the lower end of the World, and doth not know how the upper Springs of the Government are moved, to be tampering with them, and putting of them out of place.</p>
+            <p>Theſe things are above their reach, they be<g ref="char:EOLhyphen"/>long not unto them. Every man is not cut out for every Employment; and yet 'tis a common Folly, for moſt men to think themſelves fitter for the buſineſs of others than their own. Oh what an excellent Preacher could I make, ſaith the Mechanick! How admirably well could I perform the Office of a Magiſtrate or Prince, ſaith the inferiour Tradeſman! And how for<g ref="char:EOLhyphen"/>ward are too many (whoſe buſineſs 'tis not) to cenſure State-Councels, and Judiciary pro<g ref="char:EOLhyphen"/>ceedings? Every man is an <hi>Abſalom,</hi> to ſay to every man, <hi>Your Cauſe is good, but the King hath appointed none to hear it;</hi> 2 Sam. 15. 3. And ſay
+<pb n="7" facs="tcp:98820:6" rendition="simple:additions"/>
+our ſeditious <hi>Abſoloms,</hi> verſ. 4. <hi>O that I were made Judge in the Land, that every man might come unto me, and I would do him Juſtice:</hi> But if you who never made it your buſineſs, think your ſelves fit enough to undertake the Employment of others; may not they think themſelves as well qualified for, and by the ſame Right and Ju<g ref="char:EOLhyphen"/>ſtice attempt to diſcharge your Office, or any other perſons which they moſt fancy.</p>
+            <p>And how natural 'tis for ſuch pragmatical Examples as theſe to have ſo ill Effects upon others, was wittily repreſented in the ſharp Re<g ref="char:EOLhyphen"/>proof of an imprudent Action of King <hi>Lewis</hi> XI. of <hi>France,</hi> who having appointed a certain Bi<g ref="char:EOLhyphen"/>ſhop to take the general Muſter of Souldiers at <hi>Paris,</hi> and <hi>Chabannes</hi> one of his Noblemen, taking this thing in ill part, deſired of the King to give him the Authority of cenſuring the ſaid Bi<g ref="char:EOLhyphen"/>ſhops Clergy-men; to which the King replying, That it was not fit to put ones Sickle into ano<g ref="char:EOLhyphen"/>ther mans Corn: Yes, ſaith the other, ſince the Biſhop hath made our Harveſt his own, why may not we alſo as well make his ours? So that nothing will enſue from hence, but great diſor<g ref="char:EOLhyphen"/>der and lamentable confuſion; for whileſt all men will be every thing, no man at laſt will be any thing he ſhould be. But what's the Rea<g ref="char:EOLhyphen"/>ſon
+<pb n="8" facs="tcp:98820:7"/>
+that ſo many of late have thus run out, and forgot themſelves? Why, to be reputed a man of Intriegue, a perſon well vers'd in the Myſte<g ref="char:EOLhyphen"/>ries of State, to be admired and cry'd up for a politick and ſhrewd Common-wealths-man, are tickling pieces of Honour, and the Temptati<g ref="char:EOLhyphen"/>ons which have of late betrayed ſo many thus to run out beyond their bounds, to the diſtur<g ref="char:EOLhyphen"/>bance of the publick Peace, and in the end will prove to the utter Ruine and Confuſion of them<g ref="char:EOLhyphen"/>ſelves and others; and then Experience will con<g ref="char:EOLhyphen"/>vince them of their extream folly, and ſhew them that theſe Edge-tools are not to be med<g ref="char:EOLhyphen"/>led with by every Stripling and upſtart Stateſ<g ref="char:EOLhyphen"/>man.</p>
+            <p>If things be ordered thus or thus in Church or State, by the wiſdom of your Governours, <hi>What's that to you? Follow you Chriſt,</hi> by acquitting your ſelves conſcionably, and like Chriſtians, in the diligent Diſcharge of thoſe ſeveral Duties required of you in your particular Spheres and Stations in which it hath pleaſed God to place you.
+<q xml:lang="lat">Tantúmne abs re tuâ otii ſit tibi, aliena ut cures?</q>
+               <q>
+                  <pb n="9" facs="tcp:98820:7" rendition="simple:additions"/>Study to be quiet, medling with your own buſineſs,</q>
+               <bibl>Theſſ. 4. 11.</bibl>
+            </p>
+            <p>But whoever they be that thus run out be<g ref="char:EOLhyphen"/>yond their own bounds, and exerciſe themſelves in ſuch kind of Practices as theſe; they them<g ref="char:EOLhyphen"/>ſelves ſhall find in the end, that they have la<g ref="char:EOLhyphen"/>boured without thanks, lived without love, and many of them will dye, as ſhamefully and un<g ref="char:EOLhyphen"/>timely, ſo without Tears, without Pity; ſave that ſome may ſay, 'twas pity they dy'd no ſooner.</p>
+            <p>Turn therefore this Curioſity the right way; <hi>Traduce hanc curioſitatem ad curam ſalutis tuae;</hi> Change <hi>Peter</hi>'s <hi>What, What ſhall this man do?</hi> in<g ref="char:EOLhyphen"/>to <hi>Paul</hi>'s <hi>What,</hi> Acts 9. 6. <hi>Lord, what will you have me to do?</hi> And then you ſhall hear our Saviour anſwering, and directing you in the laſt part of my Text, <hi>Follow you me.</hi>
+            </p>
+            <p>Which words lay before us, not only <hi>Peter</hi>'s Duty, but every ones; <hi>Quod Petro dicitur, omnibus dicitur, Follow you me:</hi> Here's a Precept to follow a Preſident; <hi>Plus docemur exemplis, quam preceptis; lon<g ref="char:EOLhyphen"/>gum per precepta, &amp;c.</hi> But where both meet toge<g ref="char:EOLhyphen"/>ther to direct us, there we are unadviſed not to
+<pb n="10" facs="tcp:98820:8"/>
+follow: The Command muſt be obeyed, it's from Chriſt himſelf; the Pattern cannot be de<g ref="char:EOLhyphen"/>nyed, it is Chriſt himſelf ſet forth as a Pattern for us to follow.</p>
+            <p>Great Examples are of vaſt importance, inviting the Attendance, and awakening natural Conſci<g ref="char:EOLhyphen"/>ence and Ingenuity to attempt things that may ex<g ref="char:EOLhyphen"/>cel. It was not therefore without good reaſon ad<g ref="char:EOLhyphen"/>viſed in <hi>Seneca,</hi> that every man ſhould propound to himſelf the Example of a wife and vertu<g ref="char:EOLhyphen"/>ous Perſonage, as <hi>CATO, SOCRATES</hi> or <hi>BRUTUS;</hi> and by a fiction of Imagination to ſuppoſe him preſent as a Witneſs, and real<g ref="char:EOLhyphen"/>ly to take his Life as a direction of all their Actions. But the beſt and moſt excellent of the old Law-givers and Philoſophers among the <hi>Greeks,</hi> had an allay of Viciouſneſs, and could not be exemplary all over; and the beſt among the Chriſtians, in the greateſt flame of their ſhi<g ref="char:EOLhyphen"/>ning Piety, have fal'n ſhort ſomething of the Commandment: We may find among them. Ex<g ref="char:EOLhyphen"/>amples, one eminent for this Vertue, another for another, but none for all, excepting the Man Chriſt Jeſus. The <hi>Italians</hi> got up all the ex<g ref="char:EOLhyphen"/>cellent Pictures in the World, that out of them all they might make up one Maſter-piece, or
+<pb n="11" facs="tcp:98820:8" rendition="simple:additions"/>
+moſt excellent Picture. And we read of a Paint<g ref="char:EOLhyphen"/>er, that wont to one Virgin for an Eye, to ano<g ref="char:EOLhyphen"/>ther for a Lip, to a third for a Forehead, to a fourth for a Chin, to make exquiſite the Face of his Goddeſs. We need not go to one Saint for this Vertue, to another for that, for perfe<g ref="char:EOLhyphen"/>ction; take Chriſt, and take all: He intend<g ref="char:EOLhyphen"/>ed himſelf an Example of Piety, and led ſo holy a Life in all the Inſtances of it, with this deſign, that he might ſhine to all the Gene<g ref="char:EOLhyphen"/>rations and Ages of the world to come, and become an Example and guiding Star to us in our Journey.</p>
+            <p>And he therefore in all the Actions of his Life (in which he propounds himſelf imitable) <hi>did ſo converſe with men, that men after that Example might for ever converſe with him. Chriſt hath ſuf<g ref="char:EOLhyphen"/>fered for us</hi> (ſaith St. <hi>Peter,</hi> 1 Ep. c. 2. ver. 21.) <hi>leaving an Example to us, that we might follow his ſteps.</hi> And the Author to the <hi>Hebrews,</hi> chap. 12. v. 2. commands us <hi>to look unto Jeſus, the Author and finiſher of our Faith.</hi> Look upon him, and ſo eye him that you may follow him; ſo fol<g ref="char:EOLhyphen"/>low him that you may live like him, that you may ſay,
+<q xml:lang="lat">
+                  <pb n="12" facs="tcp:98820:9"/>Sic oculos, ſic ille-manus<g ref="char:punc">▪</g> ſic ora forebat.</q>
+            </p>
+            <p>When your Eyes are haughty with Ambiti<g ref="char:EOLhyphen"/>on, did He carry his Eyes ſo? No: Like as a Lamb before that bloody Wolf <hi>Pilate,</hi> his Look was meek and lowly, thô lovely. When thou curſeſt him that angers thee, Did he car<g ref="char:EOLhyphen"/>ry his Mouth ſo? No. <hi>Father, forgive them.</hi> When thou art provoked with Words, and re<g ref="char:EOLhyphen"/>turneſt Blows; Did he carry his Hands ſo? No. Being ſtricken he ſtruck not again. <hi>Summa Religionis eſt imitari quem colis:</hi> Nothing is more Honourable than to be like God. The Hea<g ref="char:EOLhyphen"/>then Worſhippers of falſe Deities grew vicious upon this Stock, and acted many things con<g ref="char:EOLhyphen"/>trary to their beſt Reaſon, only to be like them. <hi>Adulterio delectatur Quis? Jovem reſpicit.</hi> But you have here not only the Command but the Example of Chriſt, to imitate him in a Life of Piety and Obedience, of Juſtice and Temperance, of Charity and Devotion; ſuch a Life without which Humane Society cannot be preſerved. And therefore, <hi>Si precipientem ſequi non vis, ſequere precedentem,</hi> ſaith <hi>Lactantius.</hi> If you will not follow him in his Word commanding, yet follow him in his work directing.</p>
+            <p>
+               <pb n="13" facs="tcp:98820:9" rendition="simple:additions"/>But ſome things there be which our Sa<g ref="char:EOLhyphen"/>viour did, that you muſt not attempt to fol<g ref="char:EOLhyphen"/>low him in: Your Imitation hath a Limi<g ref="char:EOLhyphen"/>tation: For there are ſpecial Works which he reſerves to himſelf, and wherein he did never command nor commend Man's fol<g ref="char:EOLhyphen"/>lowing him, but rather ſtrikes it down as Preſumption.</p>
+            <p n="1">1. You muſt not follow him in the Works of his Power: If <hi>Nebuchadnezzar</hi> aſpire to this, he ſhall be ſent to <hi>eat graſs with the Beaſts of the Field.</hi>
+            </p>
+            <p n="2">2. You muſt not follow him in the Works of his Wiſdom: If <hi>Adam</hi> contend for this, he ſhall be <hi>ſent forth of Paradiſe to till the Earth.</hi>
+            </p>
+            <p n="3">3. You muſt not follow him in the Works of his Miracles: If <hi>Simon Magus</hi> will be mount<g ref="char:EOLhyphen"/>ed up like God, and flye in the Air, he ſhall be hurl'd down, and break his Neck.</p>
+            <p n="4">4. You muſt not follow him in the Works of his Majeſty: If <hi>Lucifer</hi> will aſpire to be
+<pb n="14" facs="tcp:98820:10"/>
+like God in this, he ſhall be thrown out of Heaven, and damned in Hell. And there<g ref="char:EOLhyphen"/>fore, whereas our Saviour ſaith, <hi>Learn of me;</hi> St. <hi>Auguſtin</hi> ſaith, What to do? not to create the World, not to walk on the Water, not to raiſe the dead: You muſt follow him, <hi>non in quantum filius Dei, ſed in quantum filius hominis.</hi> Neither in them muſt you expect to take ſuch large Steps as our Saviour did, but you muſt ſtep ſo far as you can, and walk ſo faſt as you may. Follow you muſt carefully and chearfully, tho' <hi>non paſſibus aequis:</hi> Tho' you cannot reach Chriſt's mark, yet if there be a willing mind, 'tis accepted according to what a man hath, and not ac<g ref="char:EOLhyphen"/>cording to what he hath not.</p>
+            <p>I ſhall inſtance in one path-way or two wherein you muſt follow him, and ſo con<g ref="char:EOLhyphen"/>clude.</p>
+            <p n="1">1. You muſt follow him in the way of Piety and Holineſs; of which that he was a moſt eminent Example, no Chriſtian will deny.</p>
+            <p n="2">2. You muſt follow him in the path-way
+<pb n="15" facs="tcp:98820:10" rendition="simple:additions"/>
+of <hi>LOYALTY</hi> and Obedience, which is a very neceſſary one to be inſiſted on, and more eſpecially at this juncture of time; and without following of him in this, your follow<g ref="char:EOLhyphen"/>ing of him in any other will avail you nothing. For our Saviour having ſhewed himſelf a moſt eminent Example of Piety and the <hi>Fear of God,</hi> is alſo a moſt perfect pattern of <hi>Loyalty,</hi> and <hi>Obedience to the King.</hi> And as you have his Pattern, ſo his Precept too; for he commands us to <hi>give to Caeſar the things that are Caeſars:</hi> And to ſhew us, that Religion and Loyalty go hand in hand, in the ſame Sentence and breath enjoyns us to <hi>give to God the things that are God's;</hi> which doth declare, that there is ſuch a neceſſary Connection betwixt the true <hi>Fear of God</hi> and <hi>Honour of the King;</hi> that whoever he be that ſaith <hi>he fears God,</hi> and at the ſame time <hi>diſobeys the King;</hi> we may ſay of him as St. <hi>John</hi> doth in another caſe, <hi>He is a Lyar, and the truth is not in him, nor the fear of God.</hi>
+            </p>
+            <p>What therefore may we think of that <hi>Arch-Rebel</hi> who hath put out his Traiterous De<g ref="char:EOLhyphen"/>claration, to excite his Majeſties Subjects to riſe in Rebellion againſt him; who hath ſet
+<pb n="16" facs="tcp:98820:11"/>
+up his Standard in the <hi>Weſt</hi> againſt his law<g ref="char:EOLhyphen"/>ful Prince, and hath placed God and Reli<g ref="char:EOLhyphen"/>gion in the Front of his Traiterous Deſigns. Why? He draws God himſelf to his hor<g ref="char:EOLhyphen"/>rid Conſpiracies, and makes a mock of him and his Religion too: For <hi>RELIGION</hi> and <hi>REBELLION</hi> are as oppoſite as white and black; and a Diſloyal Chriſtian is as great a Contradiction as a juſt Robber, or innocent Murtherer. But HE, with thoſe that ſide with him, or any way countenance his rebellious Undertakings, or wiſh well to his Traiterous Proceedings; nay thoſe that do not act againſt him as vigorouſly as they can, but ſtand neuter, watching which ſide will prevail, determining to cloſe and com<g ref="char:EOLhyphen"/>ply with that, making ſure to ſave one, and ſleep in a whole skin; they who under pre<g ref="char:EOLhyphen"/>tence of Authority can tune their tongues to any thing, but Authority diſcountenancing them, can forbear, and times turning head again can do as they did; they who are ſuch Time-ſervers, that <hi>Proteus</hi>-like can change themſelves into any form or faſhion, who are ſuch lukewarm Converts, as for a while (to ſecure their Intereſt and the main Stake) put on an outſide colour of Loyalty, but
+<pb n="17" facs="tcp:98820:11" rendition="simple:additions"/>
+upon the leaſt proſpect of advantage re<g ref="char:EOLhyphen"/>aſſume their beloved Principles of Sedition and Rebellion; they who are ſuch Phariſai<g ref="char:EOLhyphen"/>cal Loyalliſts, to fear the King (as the <hi>Indi<g ref="char:EOLhyphen"/>ans</hi> Worſhip the Devil) to prevent his hurt<g ref="char:EOLhyphen"/>ing of them, and not out of any right or ſincerity of their Duty; they who upon any pretence do take up Arms againſt their law<g ref="char:EOLhyphen"/>ful Prince; nay, they that do not rather fall a Sacrifice to the fury of ſuch a wicked Rebel, than forfeit their Loyalty by com<g ref="char:EOLhyphen"/>plying with him in his wicked deſigns, they are ſo far from following Chriſt, they are ſo far from tranſcribing that Copy which he hath ſet them in this particular, that they bring an eternal Scandal and indelible Re<g ref="char:EOLhyphen"/>proach on that Religion of which he was the Author, and whoſe Doctrine countenan<g ref="char:EOLhyphen"/>ces nothing that is ſo manifeſtly inconſiſtent with Allegiance to our Prince, the Peace of Societies and Civil Government: Is this the way to take off that Reproach which thoſe Sons of <hi>Belial</hi> have brought on this our Na<g ref="char:EOLhyphen"/>tion, by ſhedding the Innocent Blood of King <hi>Charles</hi> the Firſt (who will ever be remem<g ref="char:EOLhyphen"/>bred for his eminent Vertues and Sufferings, by all Religious and Loyal People that fear
+<pb n="18" facs="tcp:98820:12"/>
+God, and honour the King) by endeavou<g ref="char:EOLhyphen"/>ring to embrue their Hands in the Blood of his Son: But how can we expect that he to whom his Father might have ſaid, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſhould give the Brother of that Bleſſed Prince occaſion to ſay leſs than <hi>Cujus preſi<g ref="char:EOLhyphen"/>dio tutus etiam adverſus hoſtes eſſe debueram, illius infidiis circumventus, tutior ab hoſtibus quam ab illo ſum.</hi>
+            </p>
+            <p>But theſe are not the meaſures of Alle<g ref="char:EOLhyphen"/>giance and Obedience chalk'd out to them in the Example of their bleſſed Saviour: For he was not one of a Factious ſpirit, no raiſer of Sedition, no Encourager of Tu<g ref="char:EOLhyphen"/>mults and Rebellion. He never plotted or deſigned any thing againſt the Life or Dig<g ref="char:EOLhyphen"/>nity of his lawful Governour. He never entred into any Combination, Aſſociation or ſecret Conſult about raiſing of Men or Money to ſet on foot or carry on a Re<g ref="char:EOLhyphen"/>bellion: He never Libell'd his Prince, nor ſtirr'd up the People againſt his Perſon or Government; but plainly condemns all kind of Reſiſtance of Lawful Authority by force or violence, in reproving St. <hi>Peter</hi>'s draw<g ref="char:EOLhyphen"/>ing of the Sword againſt thoſe who acted
+<pb n="19" facs="tcp:98820:12" rendition="simple:additions"/>
+by it. He hath ſecured the Right and In<g ref="char:EOLhyphen"/>tereſt of Princes, the Liberty of Subjects, and Peace of Societies, in not allowing Sub<g ref="char:EOLhyphen"/>jects Right or Liberty on any pretence what<g ref="char:EOLhyphen"/>ever to take up Arms againſt the lawfull Powers. And from his words to St. <hi>Peter, Put up thy Sword into its ſheath,</hi> &amp;c. you may ſufficiently learn his mind and will con<g ref="char:EOLhyphen"/>cerning the Reſiſtance of them. For if ever there was or can be any caſe where<g ref="char:EOLhyphen"/>in Reſiſtance of lawful Authority by force is juſtifyable, it muſt had been in this: And yet then our Saviour diſallows of drawing the Sword againſt or without law<g ref="char:EOLhyphen"/>full Authority: When the greateſt Inno<g ref="char:EOLhyphen"/>cence was aſſaulted, their Lives and Eſtates in great danger, and the very Foundations of Religion ſtruck at: And thought it more for the ſafety of every Subject, that the So<g ref="char:EOLhyphen"/>vereign Power ſhould be inveſted with an abſolute, unaccountable and irreſiſtible Au<g ref="char:EOLhyphen"/>thority, ſubordinate to none but God him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>Thô this Authority ſhould degenerate in<g ref="char:EOLhyphen"/>to Tyranny, yet it muſt by no means be reſiſted by his followers; which plainly ap<g ref="char:EOLhyphen"/>pears
+<pb n="20" facs="tcp:98820:13"/>
+by his behaviour towards thoſe Ty<g ref="char:EOLhyphen"/>rants that reigned in the World in his time, moſt infamous for their Cruelty and Op<g ref="char:EOLhyphen"/>preſſion: For thô ſome might be in danger when it thus happened into ill hands, yet more would be in danger, and in far great<g ref="char:EOLhyphen"/>er danger too, when it might be reſiſted: And therefore our Saviour allows not of a Princes Male-adminiſtration of Affairs, fai<g ref="char:EOLhyphen"/>lures enough to forfeit his Commiſſion, and ſuperſede his Authority. But by his Precept commands us, and by his Example ſhews. us that we ought (when the Precepts of the Goſpel will not allow us to pay an active Obedience) with all Chriſtian humility, to ſubmit to the ſevereſt Penalties, in the Or<g ref="char:EOLhyphen"/>dinances of our lawful Sovereign.</p>
+            <p>The Primitive Chriſtians and Martyrs by a paſſive Valour and Courage, ſhewed their Love and Conſtancy to their Saviour and his Religion, by ſuffering gladly the ſpoyl<g ref="char:EOLhyphen"/>ing of their Goods, and rejoycing in the midſt of ſcorching Flames: Not by fight<g ref="char:EOLhyphen"/>ing for it, or making it a pretence to re<g ref="char:EOLhyphen"/>bell, thô they wanted not force ſufficient to have oppoſed the Heathen Emperours; yet
+<pb n="21" facs="tcp:98820:13" rendition="simple:additions"/>
+they willingly ſubmitted to the unjuſt Sen<g ref="char:EOLhyphen"/>tence of their Governours, following the ex<g ref="char:EOLhyphen"/>ample of their Bleſſed Lord and Saviour: One would therefore think that thoſe many excellent diſcourſes, which have of late been made to preſs this duty of Loyalty and Obedience, might have been unneceſſary, at leaſt ſufficient to have attained their deſign<g ref="char:EOLhyphen"/>ed ends: Since 'tis not to an Heathen Empe<g ref="char:EOLhyphen"/>ror or Tyrant; but to a Prince well furni<g ref="char:EOLhyphen"/>ſhed with all Wiſdom, that is moſt fit for ſo great a King, to one who eſteems our welfare his happineſs; and makes it his dai<g ref="char:EOLhyphen"/>ly care and ſtudy: <hi>Ne bona caduca ſint, ne ma<g ref="char:EOLhyphen"/>la rediviva:</hi> That thoſe good things which we enjoy by him, may never depart from us; that thoſe Evils which we ſuffer'd before him, may never return unto us: To one who hath moſt graciouſly engaged to defend and protect that Religion which the Royal Martyr his Father of ever Bleſſed memory hath ſealed with his Blood.</p>
+            <p>'Tis our Duty therefore (without any cauſeleſs fears or jealouſies in our ſelves, or ſtirring up any in the People) to reſt quiet
+<pb n="22" facs="tcp:98820:14"/>
+and peaceable in this aſſurance, and to do our part, in following Chriſt in this path<g ref="char:EOLhyphen"/>way of Loyalty and Obedience, and there<g ref="char:EOLhyphen"/>by make his Reign ſafe, eaſie and pro<g ref="char:EOLhyphen"/>ſperous, and himſelf a glorious Prince; and we may reſt aſſured, that he will not be wanting in any thing on his part, that may make us lead under him a quiet and peaceable Life, <hi>in all Godlineſſe and Honeſty,</hi> and thereby become an Happy People.</p>
+            <p>In vain are we called Chriſtians, if we follow not the Example of Chriſt the Fa<g ref="char:EOLhyphen"/>ther of the Inſtitution: <hi>Dictum Malachiae Ab<g ref="char:EOLhyphen"/>bat apud S. Bern.</hi>
+            </p>
+            <p>To conclude therefore: Follow Chriſt, by deſpiſing all thoſe gilded Vanities that he deſpiſed, by fearing none of thoſe Sad<g ref="char:EOLhyphen"/>neſſes and hard Uſages which he ſuffered, by practiſing all thoſe Doctrines that he taught: So then you ſhall at laſt be added to that glorious Company of Apoſtles and Martyrs which are gone before you, and together with them, follow Him into Eter<g ref="char:EOLhyphen"/>nal Glory:</p>
+            <pb n="23" facs="tcp:98820:14" rendition="simple:additions"/>
+            <closer>To whom, with the Father and the Bleſſed Spirit, be aſcribed by us and the whole Church, as is moſt due, <hi>the Kingdom, the Power and Glory, for Ever and Ever.</hi>
+AMEN.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
